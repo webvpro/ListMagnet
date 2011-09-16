@@ -1,0 +1,45 @@
+
+
+jquery-1.2.6.min.js
+
+	+ FMS
+	+ WMS (Pandora shipment entry only)
+
+
+/// PLUG-ins   //////
+
+
+jquery.autocomplete-1.4.2.js
+	+ FMS
+
+
+
+jquery.columnmanager.min.js (v 0.2.5)
+	+ WMS (Pandora shipment entry only)
+
+
+
+jquery.corner-1.92.js
+	+ FMS
+
+
+
+jquery.jdialog1.1
+	+ WMS (Pandora shipment entry only)
+
+
+jquery.layout.min.js ( 1.2.0)
+	+ FMS
+
+
+
+jquery.numeric-1.0.js
+	+ FMS
+	+ WMS (Pandora shipment entry only)
+
+
+
+/// CSS   //////
+
+jquery.autocomplete-1.4.2.css
+	+ FMS
